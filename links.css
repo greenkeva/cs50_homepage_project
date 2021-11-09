@@ -1,0 +1,17 @@
+h2
+{
+     background-color: red;
+}
+
+h2 #quote
+{
+    margin: 0;
+   
+}
+
+#quote
+{
+    padding: 100px 0;
+    text-align: center;
+    
+}
